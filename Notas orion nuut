@@ -2,13 +2,27 @@ Notas orion nuut
 
 Om background image te wys, moet die path in css wees relatief tot waar die css file is, nie die homepage nie!
 
-Kry KOmbat logo
 
 Klante gedeelte borders / well
 
 produkte fotos dimensies = 225x300
+slider fotos 1200x900
+
+Logo oranje = ef7f2dff
+Logo oranje dof #BC682A
+blou #8DC0F3
 
 oor ons gallery - foto van ons, Orania
+
+background-image:cover - maak background image responsive
+
+meta inligting byvoeg
+
+google maps
+
+function mapWindow(){
+	window.open("http://maps.google.co.za/maps?f=q&source=s_q&hl=en&geocode=&q=Platinum+Street+707,+Pretoria,+Gauteng&sll=-25.738655,28.383262&sspn=0.010766,0.01929&ie=UTF8&hq=&hnear=707+Platinum+St,+Elarduspark,+Pretoria,+Gauteng+0181&z=16", "", "scrollbars=yes, resizable=no, width=700, height=600, top=200, left=500");
+	}
 
 Verander bs 
 	buttons
@@ -24,3 +38,37 @@ Verander bs
 
 	UI kit
 	
+Verander aan site:
+
+Popovers moet enige plek kan toemaak
+	Miskien net jquery gebruik - nie bs popover nie?
+
+Jumbotron opacity gee (baie)
+
+Verwysings vrae
+
+	Hoe lank, Koop wat, Beste ding oor Orion, Iets besonders onthou?
+
+	//Notas 25 Mei 2016
+
+A. Maak hele site 100% funksioneel	
+
+1. Kontakvorm
+
+	1. bou prototipe
+	2. Sit in hoofbladsy
+
+	Gaan nie na nuwe bladsy nie - gee popup?
+
+2. Verwysings 
+
+
+B. Estetika
+
+Teksture aan kante
+meer logos van verskaffers
+
+C. Vorms
+
+	Verf
+
